@@ -2,4 +2,7 @@
 Total Months: 86
 Total: $38382578
 Greatest Increase: $1926159
-Greatest Monthly Increase: Feb-12Greatest Monthly Decrease: Sep-13Greatest Decrease: $-2196167Average Change: $-2315.12
+Greatest Monthly Increase: Feb-12
+Greatest Monthly Decrease: Sep-13
+Greatest Decrease: $-2196167
+Average Change: $-2315.12
